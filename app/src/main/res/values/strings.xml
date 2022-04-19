@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Chapter5</string>
+    <string name="titleKertas">Kertas</string>
+    <string name="titleGunting">Gunting</string>
+    <string name="titleBatu">Batu</string>
+
+    <string name="player1">Pemain 1</string>
+    <string name="player2">COM</string>
+
+    <string name="titlevs">VS</string>
+    <string name="player1Menang">Pemain 1\nMENANG!</string>
+    <string name="player2Menang">Pemain 2\nMENANG!</string>
+    <string name="hasilDraw">Draw!</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="landing_desc">Bermain suit melawan sesama pemain.</string>
+    <string name="landing_desc2">Bermain suit melawan komputer.</string>
+    <string name="landing_desc3">Tuliskan namamu dibawah</string>
+    <string name="pilih_lawanmu">Pilih Lawanmu</string>
+    <string name="txtPVP">pras vs Player</string>
+    <string name="txtPVC">pras vs CPU</string>
+    <string name="pemain_menang">pemain menang</string>
+    <string name="hasil_permainan">Hasil Permainan</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="kembalikemenu">Kembali ke Menu</string>
+    <string name="kertas_gunting_batu">kertas_gunting_batu</string>
+    <string name="kertas">txt_kertas</string>
+    <string name="gunting">txt_gunting</string>
+    <string name="batu">txt_batu</string>
+    <string name="bermain_suit_melawan_komputer">txt_landing2</string>
+    <string name="tuliskan_namamu_dibawah">tuliskan_nama</string>
+</resources>
